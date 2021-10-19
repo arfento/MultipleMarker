@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultipleMarker</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="vaksin">Sudah vaksin kah kamu?</string>
+    <string name="masker">Jangan lupa pakai masker saat bepergian ya!</string>
+    <string name="tujuan">Cari lokasi tujuan</string>
+    <string name="alamat">Alamat Lokasi</string>
+    <string name="lokasi_anda">Lokasi anda</string>
+</resources>
