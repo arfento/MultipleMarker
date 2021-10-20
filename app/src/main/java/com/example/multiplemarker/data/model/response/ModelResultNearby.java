@@ -7,5 +7,13 @@ import java.util.List;
 public class ModelResultNearby {
 
     @SerializedName("results")
-    private List<ModelResult>
+    private List<ModelResult> modelResults;
+
+    public List<ModelResult> getModelResults() {
+        return modelResults;
+    }
+
+    public void setModelResults(List<ModelResult> modelResults) {
+        this.modelResults = modelResults;
+    }
 }
